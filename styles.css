@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+#nestedtable1,#nestedtable2,#nestedtable3,#nestedtable4{
+	width:100%
+	text-align:center;
+}
+table,th,td{
+	border:1px solid black;
+		text-align:center;
+	
+	
+}
